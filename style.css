@@ -24,6 +24,7 @@ img{
 }
 /* header section style */
 header{
+    top: 0;
     width: 100%;
     height: 55px;
     display: flex;
